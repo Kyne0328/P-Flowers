@@ -13,7 +13,7 @@ body{
     background-color: black;
 }
 .greetings{
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 900;
 }
 .greetings > span{
@@ -79,6 +79,8 @@ body{
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
+    padding-right: 20dp;
+    padding-left: 20dp;
 }
 
 .button a{
